@@ -1,0 +1,10 @@
+name: M-Boss
+main: fr.megacretin.pluginboss.main
+version: 1.0
+author: MegaCretin
+commands:
+  boss:
+    description: Fait spawn le boss choisi
+    permission: boss.spawn
+  event:
+    description: tp a l'event
